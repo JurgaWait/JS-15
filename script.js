@@ -1,18 +1,3 @@
-// function rodauVarda(vardas) {
-//   console.log(vardas);
-// }
-// rodauVarda("Jurga");
-
-// // let sarasas [1, 2, 3, 4]
-
-// for (let i = 0; i <= 100; i++) {
-//   //   console.log(i);
-
-//   const btn = document.createElement("button");
-//   btn.innerText = i;
-//   document.body.appendChild(btn);
-// }
-
 let amzius = prompt("Įrašykite savo amžių");
 
 if (amzius >= 18 && amzius < 20) {
